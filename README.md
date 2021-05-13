@@ -3,7 +3,7 @@
 <center>
     <img src="/files/accord_openpilot.jpg" alt="十代雅阁安装 openpilot">
 </center>
-
+1234
 #### 版本更新记录篇
 - [更新记录[中文翻译]](cn/openpilot_releases.md)
 - [更新记录[英文原版]](cn/openpilot_releases_en.md)
